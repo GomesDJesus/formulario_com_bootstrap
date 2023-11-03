@@ -1,0 +1,21 @@
+.container{
+    margin:  auto;
+    max-width: 500px;
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    color: #fff;
+    
+}
+
+.formulario{
+    background-color: rgba(15, 15, 15, 0.932);
+    border-radius: 16px;
+    max-width: 700px;
+    margin: 8% auto;
+   padding: 30px;
+}
+
+button{
+    width: 150px;
+}
